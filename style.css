@@ -1,0 +1,26 @@
+body
+{
+    background-color: black;
+    color: green;
+    
+}
+.heading
+{
+    width: 80%;
+    font-size: 30px;
+}
+.noob
+{
+    color: rgb(5, 103, 5);
+}
+#camera
+{
+    border: 2px dashed green;
+    width: 350px;
+    height: 300px;
+}
+.button1
+{
+    background-color: black;
+    color: green;
+}
